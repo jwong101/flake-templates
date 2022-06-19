@@ -3,7 +3,7 @@
  SPDX-License-Identifier: Apache-2.0
 -->
 
-# Haskell Project Skeleton
+# Rust Project Skeleton
 
 Insert description here.
 
